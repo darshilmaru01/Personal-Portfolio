@@ -1,6 +1,6 @@
 # Responsive-Resume
 
-> Responsive Resume / CV template built with Tailwind CSS &nbsp; [[Demo]](https://darshilmaru-portfolio.web.app/).
+> Responsive Resume / CV built using HTML, Tailwind CSS and JScript&nbsp; [[Demo]](https://darshilmaru-portfolio.web.app/).
 
 ## Getting up and running
 
